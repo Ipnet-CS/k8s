@@ -1,29 +1,26 @@
 ## Delivery Team 
 
-### Terraform Training Delivery Team
+### Kubernetes Training Delivery Team
 
-Create a terraform.tfvars with your credentials and default region.
+Create infra Minikube
+
+* [Kubernetes](https://[Minikube](https://minikube.sigs.k8s.io/docs/start/?arch=%2Flinux%2Fx86-64%2Fstable%2Fbinary+download])
 
 **Example**:
 
 
 ## Getting Started
 
- * terraform init
- * terraform plan -var="project=seu-projeto-id" -var="credentials_file=path/para/seu/arquivo/credenciais.json"
- * terraform apply -var="project=seu-projeto-id" -var="credentials_file=path/para/seu/arquivo/credenciais.json"
+ * Setup Minikube
+ * Setup kubectl
+ * helm 3
 
  ### Dependencies
 
-* Terraform.
-* tfenv
-* Account GCP autorizada para uso e um projeto criado
-* Ative a API do Compute Engine e obtenha um arquivo de credenciais JSON para autenticação.
-
-### Executing program
-
-* terraform apply < file.tf >
-
+* Python3
+* Linux
+* Docker
+* 
 ## Help
 
 Delivery Team 
@@ -49,8 +46,8 @@ Free
 ## Acknowledgments
 
 Inspiration, code snippets, etc.
-* [Terraform](https://www.terraform.io/)
-* [Creating Modules](https://www.terraform.io/docs/modules/index.html)
-* [tfenv](https://github.com/tfutils/tfenv)
-* [HashCorp](https://developer.hashicorp.com/terraform/language/settings/backends/s3)
-* [Modules](https://developer.hashicorp.com/terraform/language/modules/syntax)
+*  [Kubernetes](https://[Minikube](https://minikube.sigs.k8s.io/docs/start/?arch=%2Flinux%2Fx86-64%2Fstable%2Fbinary+download])
+*  [Kubectl] ()
+* [Python]()
+* [Helm]()
+* [Docker]()
