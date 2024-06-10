@@ -2,9 +2,11 @@
 
 ### Kubernetes Training Delivery Team
 
-Create infra Minikube
+Create infra Minikube tips
 
-* [Kubernetes](https://[Minikube](https://minikube.sigs.k8s.io/docs/start/?arch=%2Flinux%2Fx86-64%2Fstable%2Fbinary+download])
+* [Kubernetes](https://minikube.sigs.k8s.io/docs/start/?arch=%2Flinux%2Fx86-64%2Fstable%2Fbinary+download)
+
+https://docs.google.com/document/d/1z0AO3G52af0IM4i697kAE5X41cOLqw3RPAhebjdLFOI/edit
 
 **Example**:
 
@@ -46,8 +48,8 @@ Free
 ## Acknowledgments
 
 Inspiration, code snippets, etc.
-*  [Kubernetes](https://[Minikube](https://minikube.sigs.k8s.io/docs/start/?arch=%2Flinux%2Fx86-64%2Fstable%2Fbinary+download])
-*  [Kubectl] ()
-* [Python]()
-* [Helm]()
-* [Docker]()
+*  [Kubernetes](https://minikube.sigs.k8s.io/docs/start/?arch=%2Flinux%2Fx86-64%2Fstable%2Fbinary+download)
+*  [Kubectl] (https://minikube.sigs.k8s.io/docs/handbook/kubectl/)
+* [Python](https://www.python.org/downloads/)
+* [Helm](https://helm.sh/docs/intro/install/)
+* [Docker](https://www.docker.com/)
